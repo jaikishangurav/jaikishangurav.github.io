@@ -1,8 +1,9 @@
-title: Jaikishan's Blog
+title: Jaikishan Gurav's Blog
 author: Jaikishan
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am software engineer working in Java, Spring framework. This page is work in progress.
+  I am software engineer working with Java, Spring framework and microservices development. I am interested in web development, distributed systems and cloud technologies.
+  This page is work in progress.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
